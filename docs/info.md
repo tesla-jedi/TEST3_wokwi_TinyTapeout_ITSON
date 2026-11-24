@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Its a simple 7 segment led driver BCD
 
 ## How to test
 
-Explain how to use your project
+increment binary permutation on the input in order to represent a decimal number on the display
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+common cathode display
